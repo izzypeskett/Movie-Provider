@@ -1,0 +1,30 @@
+@import './variables';
+
+
+@mixin nav-brand {
+  font-size: $font-l;
+  font-weight: 300;
+}
+
+@mixin title {
+  font-size: $font-xl;
+  font-weight: 900;
+}
+
+@mixin subtitle {
+  font-size: $font-md;
+  font-weight: 300;
+}
+
+@mixin heading {
+  font-size: $font-l;
+  font-weight: 700;
+}
+
+@mixin label {
+  font-size: $font;
+  font-weight: 900;
+}
+
+
+

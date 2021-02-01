@@ -1,0 +1,9 @@
+nav {
+  width: 100%;
+  margin-bottom: $spacing * 3;
+  a {
+    @include nav-brand;
+    color: inherit;
+  }
+
+}

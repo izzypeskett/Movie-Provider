@@ -1,0 +1,13 @@
+.btn {
+  cursor: pointer;
+  outline: none;
+  border: 0px;
+  &--icon {
+    color: $color-text;
+    background: none;
+    opacity: 0.4;
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
