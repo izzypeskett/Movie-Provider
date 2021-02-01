@@ -1,4 +1,4 @@
-# Princes Theatre: Lexicon Digital Coding Challenge
+# Princes Theatre: Movie-Provider App (This was part of a coding-interview)
 *Applicant: Isabelle Peskett*
 
 ## Brief
